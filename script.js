@@ -37,7 +37,7 @@
           } else if (fahrenheit > 69 && fahrenheit < 83) {
             alert(msg + "\n Temperature is just right!");
           } else {
-            alert(msg + "\n Its way too hot-still");
+            alert(msg + "\n Its way too hot-still.");
           }
     }
 
